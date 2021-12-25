@@ -1,0 +1,16 @@
+body{
+    background-color:#9D1B56;
+}
+.Spider-Man{
+    color:#FCFF00;
+    text-decoration: line-through;
+}
+.Zag{
+    color: red;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+}
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+.ds{
+    text-shadow: 5px 4px 2px violet;
+}
